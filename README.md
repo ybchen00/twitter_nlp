@@ -1,6 +1,6 @@
-## Data Collection & Topic Modeling on Tweets regarding New York City Housing Authority (NYCHA)
+## Data Collection & Topic Modeling of Social Media Posts about NYCHA
 
-This project is design to scrap text content of tweets about NYCHA, using Latent Dirichlet Allocation in Topic Modeling to extract the main concerns of NYCHA residents. 
+This project is design to scrap text content of tweets about **New York City Housing Authority (NYCHA)**, using Latent Dirichlet Allocation in Topic Modeling to extract the main concerns of NYCHA residents. 
 
 
 **IMPORTANR NOTE** 
